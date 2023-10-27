@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="323.416" height="181" viewBox="0 0 323.416 181">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="矩形_2749" data-name="矩形 2749" width="237.416" height="178.062" transform="translate(-6468.987 -6210.416)" fill="#d1d1d1" opacity="0.2"/>
+    </clipPath>
+    <filter id="路径_1884" x="44.852" y="27.485" width="235.076" height="173.291" filterUnits="userSpaceOnUse">
+      <feOffset dy="9.403" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="16.455" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="椭圆_196" x="127.617" y="10.233" width="131.636" height="131.637" filterUnits="userSpaceOnUse">
+      <feOffset dy="9.403" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="16.455" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="组_7579" data-name="组 7579" transform="translate(8502.299 15960.909)">
+    <rect id="矩形_2750" data-name="矩形 2750" width="323.416" height="181" transform="translate(-8502.299 -15960.909)" fill="#e4e4e4"/>
+    <g id="蒙版组_34" data-name="蒙版组 34" transform="translate(-1990.312 -9750.493)" clip-path="url(#clip-path)">
+      <g id="组_7578" data-name="组 7578" transform="translate(-6417.75 -6160.222)">
+        <g id="组_7577" data-name="组 7577">
+          <g id="组_7576" data-name="组 7576">
+            <g id="组_7575" data-name="组 7575">
+              <g id="组_7574" data-name="组 7574">
+                <g id="组_7573" data-name="组 7573">
+                  <g transform="matrix(1, 0, 0, 1, -94.24, -50.19)" filter="url(#路径_1884)">
+                    <path id="路径_1884-2" data-name="路径 1884" d="M-6205.268-5451.837v-39.418l36.458-35.145,40.2,46.308,30.469-15.2,29.226,15.2v28.243Z" transform="translate(6299.48 5593.85)" fill="#fff"/>
+                  </g>
+                  <g transform="matrix(1, 0, 0, 1, -94.24, -50.19)" filter="url(#椭圆_196)">
+                    <circle id="椭圆_196-2" data-name="椭圆 196" cx="16.455" cy="16.455" r="16.455" transform="translate(176.98 50.19)" fill="#fff"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
